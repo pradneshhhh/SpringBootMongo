@@ -1,0 +1,7 @@
+com\example\SpringBootMongo\controller\StudentController.class
+com\example\SpringBootMongo\repository\StudentRepository.class
+com\example\SpringBootMongo\service\StudentService.class
+com\example\SpringBootMongo\SpringBootMongoApplication.class
+com\example\SpringBootMongo\entity\Student.class
+com\example\SpringBootMongo\entity\Subject.class
+com\example\SpringBootMongo\entity\Department.class
